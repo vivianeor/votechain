@@ -12,22 +12,6 @@ Um sistema de votação simples e transparente construído em Solidity para a bl
 - ✅ **Controle de tempo** para votações
 - ✅ **Transparência total** na blockchain
 
-## 🏗️ Estrutura do Projeto
-
-```
-votechain/
-├── contracts/
-│   └── VotingSystem.sol      # Contrato principal
-├── scripts/
-│   ├── deploy.js             # Script de deploy
-│   └── example.js            # Exemplo de uso
-├── test/
-│   └── VotingSystem.test.js  # Testes do contrato
-├── package.json              # Dependências
-├── hardhat.config.js         # Configuração Hardhat
-└── README.md                 # Documentação
-```
-
 ## 🚀 Instalação e Configuração
 
 ### Pré-requisitos
@@ -39,7 +23,7 @@ votechain/
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/vivianeor/votechain.git
 cd votechain
 ```
 
